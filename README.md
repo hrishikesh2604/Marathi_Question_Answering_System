@@ -1,6 +1,6 @@
 
-##### Marathi to Marathi Q&A System #####
-# -----------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Marathi to Marathi Q&A System ####
+
 
 ### CodeBase
 `Link -  https://colab.research.google.com/drive/1VfwJ13KtNbJVmLrA2gU-hWFhh-ho9BqP?usp=sharing`
